@@ -16,6 +16,8 @@ Display: TPO TD026TTEA1 2.6" 640*480 LTPS LCD
 
 Working in progress
 
+Hackaday Link: https://hackaday.io/project/19412-pibor-zero
+
 ## License
 
 The project is released under GPLv2, except software libraries provided by STmicro.
