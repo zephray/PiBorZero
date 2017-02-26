@@ -14,7 +14,7 @@ Display: TPO TD026TTEA1 2.6" 640*480 LTPS LCD
 
 ## Current status:
 
-Working in progress
+Half Failed.
 
 Hackaday Link: https://hackaday.io/project/19412-pibor-zero
 
